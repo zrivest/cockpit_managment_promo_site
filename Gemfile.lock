@@ -30,13 +30,6 @@ GEM
       multi_json (~> 1.0)
     arel (3.0.3)
     builder (3.0.4)
-    coffee-rails (3.2.2)
-      coffee-script (>= 2.2.0)
-      railties (~> 3.2.0)
-    coffee-script (2.2.0)
-      coffee-script-source
-      execjs
-    coffee-script-source (1.6.3)
     erubis (2.7.0)
     execjs (2.0.2)
     font-awesome-rails (4.0.3.0)
@@ -70,6 +63,11 @@ GEM
       activesupport (= 3.2.14)
       bundler (~> 1.0)
       railties (= 3.2.14)
+    rails_12factor (0.0.2)
+      rails_serve_static_assets
+      rails_stdout_logging
+    rails_serve_static_assets (0.0.1)
+    rails_stdout_logging (0.0.3)
     railties (3.2.14)
       actionpack (= 3.2.14)
       activesupport (= 3.2.14)
@@ -104,11 +102,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-rails (~> 3.2.1)
   font-awesome-rails
   jquery-rails
   pg
   rails (= 3.2.14)
+  rails_12factor
   sass-rails (~> 3.2.3)
   sprockets
   uglifier (>= 1.0.3)
