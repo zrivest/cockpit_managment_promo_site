@@ -13,10 +13,15 @@ body {
 }
 
 .vert-text h1 {
+  color: black;
   padding: 0;
   margin: 0;
   font-size: 4.5em;
   font-weight: 700;
+}
+
+.vert-text h3 {
+  color: black;
 }
 
 /* Side Menu */
@@ -121,6 +126,7 @@ body {
 /* Intro */
 
 .intro {
+  background-color: #335787;
   padding: 50px 0;
 }
 
