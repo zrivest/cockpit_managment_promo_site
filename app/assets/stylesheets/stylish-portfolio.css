@@ -24,6 +24,12 @@ body {
   color: white;
 }
 
+.logo {
+  position: absolute;
+  color: black;
+  background-color: red;
+}
+
 /* Side Menu */
 
 #sidebar-wrapper {
