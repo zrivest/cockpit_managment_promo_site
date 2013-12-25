@@ -171,7 +171,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/waterbomber.jpg) no-repeat center center fixed;
+  background: url(../img/cockpitwaterbomber.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -251,7 +251,7 @@ i.scroll:hover {
   }
 
   .callout {
-	background: url(imag"waterbomber.jpg")) no-repeat center center scroll;
+	background: url(image_path("waterbomber.jpg")) no-repeat center center scroll;
   }
 
   .map {
