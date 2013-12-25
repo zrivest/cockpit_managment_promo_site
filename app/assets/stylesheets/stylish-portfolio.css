@@ -118,7 +118,7 @@ body {
 
 .header {
   display: table;
-  height: 100%;
+  height: 90%;
   width: 100%;
   position: relative;
   background: url(../img/airplane_takeoff_sunset.jpg) no-repeat center center fixed;
