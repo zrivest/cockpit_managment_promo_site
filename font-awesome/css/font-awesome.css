@@ -231,7 +231,7 @@
 .fa-star-o:before {
   content: "\f006";
 }
-.fa-user:before {
+.fa-cloud:before {
   content: "\f007";
 }
 .fa-film:before {
@@ -393,7 +393,7 @@
 .fa-picture-o:before {
   content: "\f03e";
 }
-.fa-user:before {
+.fa-cloud:before {
   content: "\f040";
 }
 .fa-map-marker:before {
@@ -406,7 +406,7 @@
   content: "\f043";
 }
 .fa-edit:before,
-.fa-user-square-o:before {
+.fa-cloud-square-o:before {
   content: "\f044";
 }
 .fa-share-square-o:before {
@@ -868,7 +868,7 @@
 .fa-cloud-upload:before {
   content: "\f0ee";
 }
-.fa-user-md:before {
+.fa-cloud-md:before {
   content: "\f0f0";
 }
 .fa-stethoscope:before {
@@ -1134,7 +1134,7 @@
 .fa-check-square:before {
   content: "\f14a";
 }
-.fa-user-square:before {
+.fa-cloud-square:before {
   content: "\f14b";
 }
 .fa-external-link-square:before {

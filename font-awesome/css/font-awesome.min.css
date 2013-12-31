@@ -25,12 +25,8 @@
 .fa-inverse{color:#fff}
 .fa-glass:before{content:"\f000"}
 .fa-music:before{content:"\f001"}
-.fa-search:before{content:"\f002"}
-.fa-envelope-o:before{content:"\f003"}
-.fa-heart:before{content:"\f004"}
-.fa-star:before{content:"\f005"}
 .fa-star-o:before{content:"\f006"}
-.fa-user:before{content:"\f007"}
+.fa-cloud:before{content:"\f007"}
 .fa-film:before{content:"\f008"}
 .fa-th-large:before{content:"\f009"}
 .fa-th:before{content:"\f00a"}
@@ -83,11 +79,11 @@
 .fa-indent:before{content:"\f03c"}
 .fa-video-camera:before{content:"\f03d"}
 .fa-picture-o:before{content:"\f03e"}
-.fa-user:before{content:"\f040"}
+.fa-cloud:before{content:"\f040"}
 .fa-map-marker:before{content:"\f041"}
 .fa-adjust:before{content:"\f042"}
 .fa-tint:before{content:"\f043"}
-.fa-edit:before,.fa-user-square-o:before{content:"\f044"}
+.fa-edit:before,.fa-cloud-square-o:before{content:"\f044"}
 .fa-share-square-o:before{content:"\f045"}
 .fa-check-square-o:before{content:"\f046"}
 .fa-move:before{content:"\f047"}
@@ -236,7 +232,7 @@
 .fa-exchange:before{content:"\f0ec"}
 .fa-cloud-download:before{content:"\f0ed"}
 .fa-cloud-upload:before{content:"\f0ee"}
-.fa-user-md:before{content:"\f0f0"}
+.fa-cloud-md:before{content:"\f0f0"}
 .fa-stethoscope:before{content:"\f0f1"}
 .fa-suitcase:before{content:"\f0f2"}
 .fa-bell-o:before{content:"\f0a2"}
@@ -323,7 +319,7 @@
 .fa-level-up:before{content:"\f148"}
 .fa-level-down:before{content:"\f149"}
 .fa-check-square:before{content:"\f14a"}
-.fa-user-square:before{content:"\f14b"}
+.fa-cloud-square:before{content:"\f14b"}
 .fa-external-link-square:before{content:"\f14c"}
 .fa-share-square:before{content:"\f14d"}
 .fa-compass:before{content:"\f14e"}
