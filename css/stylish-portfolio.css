@@ -137,16 +137,26 @@ body {
 }
 
 #courses {
+  color: #ffffff;
   list-style-type: none;
-  font-size: 20px
+}
+
+#courses1 {
+  color: #ffffff;
+  list-style-type: none;
+  font-size: 150%;
 }
 
 /* Services */
 
 .services {
   background: gray;
-  padding: 10px 0;
+  padding: 175px 0;
   color: #ffffff;
+}
+
+#philosophy {
+  padding-bottom: 10%;
 }
 
 .service-item {
@@ -163,6 +173,10 @@ i.service-icon {
   line-height: 136px;
   vertical-align: middle;
   text-align: center;
+}
+
+#crm {
+  font-size: 150%;
 }
 
 /* Callout */
@@ -219,12 +233,24 @@ footer {
   background: #335787;
 }
 
+#contact {
+  color: #ffffff;
+}
+
 li #envelope {
-  color: #333333;
+  color: #ffffff;
 }
 
 li #email {
-  color: #333333;
+  color: #ffffff;
+}
+
+li #phone {
+  color: #ffffff;
+}
+
+#phone {
+  color: #ffffff;
 }
 
 .top-scroll {
