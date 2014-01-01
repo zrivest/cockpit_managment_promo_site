@@ -13,7 +13,7 @@ body {
 }
 
 .vert-text h1 {
-  color: black;
+  color: white;
   padding: 0;
   margin: 0;
   font-size: 4.5em;
@@ -26,8 +26,9 @@ body {
 
 .logo img {
   position: absolute;
-  height: 5em;
-  width: 23em;
+  padding-top: 1%;
+  height: 11%;
+  width: 23%;
 }
 /* Side Menu */
 
