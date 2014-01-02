@@ -2,8 +2,8 @@
 
 html,
 body {
-  height: 100%;
   width: 100%;
+  height: 100%;
 }
 
 .vert-text {
@@ -278,14 +278,18 @@ i.scroll:hover {
 }
 /* Responsive */
 
-@media (max-width: 760px) {
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
 
   .header {
-  background: url(image_path('airplane_takeoff_sunset.jpg')) no-repeat center center scroll;
+    background: url(../img/airplane_takeoff_sunset.jpg) no-repeat center center scroll;
+
   }
 
   .callout {
-  background: url(image_path("helicopter.jpg")) no-repeat center center scroll;
+    background: url(../img/helicopter.jpg) no-repeat center center scroll;
   }
 
 }
+
+
