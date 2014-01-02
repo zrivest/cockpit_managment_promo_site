@@ -278,7 +278,7 @@ i.scroll:hover {
 }
 /* Responsive */
 
-@media (max-width: 640px) {
+@media (max-width: 760px) {
 
   .header {
   background: url(image_path('airplane_takeoff_sunset.jpg')) no-repeat center center scroll;
@@ -286,10 +286,6 @@ i.scroll:hover {
 
   .callout {
   background: url(image_path("helicopter.jpg")) no-repeat center center scroll;
-  }
-
-  .map {
-  height: 75%;
   }
 
 }
