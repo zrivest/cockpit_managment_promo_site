@@ -14,9 +14,9 @@ body {
 
 .vert-text h1 {
   color: white;
-  padding: 0;
+  padding-bottom: 15%;
   margin: 0;
-  font-size: 4.5em;
+  font-size: 375%;
   font-weight: 500;
 }
 
@@ -156,6 +156,7 @@ body {
 }
 
 #philosophy {
+  width: 95%;
   padding-bottom: 10%;
 }
 
@@ -175,8 +176,10 @@ i.service-icon {
   text-align: center;
 }
 
-#crm {
-  font-size: 150%;
+#crm h4 {
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 200%;
 }
 
 /* Callout */
@@ -193,7 +196,7 @@ i.service-icon {
   background-size: cover;
 }
 
-/* Portfolio */
+/* About_me */
 
 .portfolio {
   padding: 50px 0;
@@ -201,6 +204,10 @@ i.service-icon {
 
 .portfolio-item {
   margin-bottom: 25px;
+}
+
+.portfolio-item h4 {
+  font-size: 145%;
 }
 
 .img-portfolio {
