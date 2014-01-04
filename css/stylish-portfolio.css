@@ -283,8 +283,9 @@ only screen and (min-device-pixel-ratio : 1.5) {
 
   .header {
     background: url(../img/airplane_takeoff_sunset.jpg) no-repeat center center scroll;
-
-  }
+    width: 320px;
+    height: 480px;
+   }
 
   .callout {
     background: url(../img/helicopter.jpg) no-repeat center center scroll;
