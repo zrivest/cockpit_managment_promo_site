@@ -318,6 +318,10 @@ i.scroll:hover {
     background: url(../img/helicopter.jpg) no-repeat center center scroll;
   }
 
+  .callout2 {
+    background: url(../img/waterbomber2.jpg) no-repeat center center scroll;
+  }
+
   #crm h4 {
     font-size: 25px;
     list-style-type: none;
