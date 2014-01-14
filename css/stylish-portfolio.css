@@ -309,8 +309,7 @@ i.scroll:hover {
 
   #crm h4 {
     font-size: 25px;
+    list-style-type: none;
   }
 
 }
-
-
