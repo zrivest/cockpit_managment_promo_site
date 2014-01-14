@@ -218,6 +218,18 @@ i.service-icon {
 }
 
 
+.callout2 {
+  color: #ffffff;
+  display: table;
+  height: 400px;
+  width: 100%;
+  background: url(../img/waterbomber2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 /* Call to Action */
 
 .call-to-action {
