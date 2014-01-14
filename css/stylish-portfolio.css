@@ -192,7 +192,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/waterbomber2.jpg) no-repeat center center fixed;
+  background: url(../img/helicopter.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -304,7 +304,7 @@ i.scroll:hover {
   }
 
   .callout {
-    background: url(../img/waterbomber2.jpg) no-repeat center center scroll;
+    background: url(../img/helicopter.jpg) no-repeat center center scroll;
   }
 
   #crm h4 {
