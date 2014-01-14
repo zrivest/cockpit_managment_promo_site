@@ -285,7 +285,6 @@ i.scroll:hover {
 
   .header {
     background: url(../img/airplane_sky.jpg) no-repeat center center scroll;
-    display: table;
     height: 100%;
     width: 100%;
     position: relative;
