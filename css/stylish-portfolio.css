@@ -190,7 +190,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/helicopter.jpg) no-repeat center center fixed;
+  background: url(../img/waterbomber2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -288,7 +288,7 @@ only screen and (min-device-pixel-ratio : 1.5) {
   }
 
   .callout {
-    background: url(../img/helicopter.jpg) no-repeat center center scroll;
+    background: url(../img/waterbomber2.jpg) no-repeat center center scroll;
   }
 
 }
