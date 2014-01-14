@@ -289,7 +289,6 @@ i.scroll:hover {
     height: 100%;
     width: 100%;
     position: relative;
-    background: url(../img/airplane_sky.jpg) no-repeat center center fixed;
   }
 
   .vert-text h1 {
