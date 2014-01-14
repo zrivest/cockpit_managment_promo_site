@@ -13,12 +13,11 @@ body {
 }
 
 .vert-text h1 {
-  color: #17385F;
+  color: white;
   padding-bottom: 15%;
-  padding-left: 45%;
-  margin: 0;
-  font-size: 575%;
-  font-weight: 600;
+  margin: 0 auto;
+  font-size: 375%;
+  font-weight: 500;
 }
 
 .vert-text h3 {
@@ -27,8 +26,8 @@ body {
 
 .logo img {
   position: absolute;
-  padding-top: 42%;
-  padding-left: 3%;
+  padding-top: 1%;
+  padding-left: 1%;
   height: auto;
   max-width: 350px;
   width: 100%;
@@ -125,7 +124,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/airplane_sky.jpg) no-repeat center center fixed;
+  background: url(../img/airplane_takeoff_sunset2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -296,7 +295,7 @@ i.scroll:hover {
 @media (max-width: 768px) {
 
   .header {
-    background: url(../img/airplane_sky.jpg) no-repeat center center scroll;
+    background: url(../img/airplane_takeoff_sunset2.jpg) no-repeat center center scroll;
 
   }
 
