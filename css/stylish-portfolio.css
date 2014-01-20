@@ -316,6 +316,10 @@ i.scroll:hover {
 
   .callout {
     background: url(../img/helicopter.jpg) no-repeat center center scroll;
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
   }
 
   .callout2 {
