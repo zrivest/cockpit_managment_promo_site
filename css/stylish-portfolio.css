@@ -15,7 +15,7 @@ body {
 .vert-text h1 {
   color: white;
   padding-bottom: 15%;
-  margin: 0;
+  margin: 0 auto;
   font-size: 375%;
   font-weight: 500;
 }
@@ -27,8 +27,10 @@ body {
 .logo img {
   position: absolute;
   padding-top: 1%;
-  height: 11%;
-  width: 23%;
+  padding-left: 1%;
+  height: auto;
+  max-width: 350px;
+  width: 100%;
 }
 /* Side Menu */
 
@@ -179,7 +181,7 @@ i.service-icon {
 #crm h4 {
   padding-left: 5%;
   padding-right: 5%;
-  font-size: 200%;
+  font-size: 150%;
 }
 
 /* Callout */
@@ -207,13 +209,25 @@ i.service-icon {
 }
 
 .portfolio-item h4 {
-  font-size: 145%;
+  font-size: 139%;
 }
 
 .img-portfolio {
   margin: 0 auto;
 }
 
+
+.callout2 {
+  color: #ffffff;
+  display: table;
+  height: 400px;
+  width: 100%;
+  background: url(../img/waterbomber3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 /* Call to Action */
 
@@ -277,7 +291,6 @@ i.scroll:hover {
   color: #0a5175;
 }
 /* Responsive */
-
 /* iphone */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .header {
@@ -342,19 +355,3 @@ i.scroll:hover {
     max-width: 100%;
   }
 }
-/*only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
-
-  .header {
-    background: url(../img/airplane_takeoff_sunset.jpg) no-repeat center center scroll;
-    width: 320px;
-    height: 480px;
-   }
-
-  .callout {
-    background: url(../img/helicopter.jpg) no-repeat center center scroll;
-  }
-*/
-}
-
-
