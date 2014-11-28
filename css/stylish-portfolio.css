@@ -325,6 +325,17 @@ i.scroll:hover {
     background: url(../img/helicopter-small.jpg) no-repeat center center scroll;
     max-width: 100%;
   }
+
+  .callout2 {
+  color: #ffffff;
+  display: table;
+  height: 0px;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
 }
 
 /* ipad */
@@ -354,4 +365,14 @@ i.scroll:hover {
     background: url(../img/helicopter.jpg) no-repeat center center scroll;
     max-width: 100%;
   }
+  .callout2 {
+  color: #ffffff;
+  display: table;
+  height: 0px;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 }
