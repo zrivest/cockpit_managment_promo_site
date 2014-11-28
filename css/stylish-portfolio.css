@@ -278,7 +278,71 @@ i.scroll:hover {
 }
 /* Responsive */
 
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
+/* iphone */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .header {
+    background: url(../img/airplane_takeoff_sunset.jpg) no-repeat center center scroll;
+    max-width: 100%;
+   }
+
+   div.vert-text:nth-child(2) > h1:nth-child(1) {
+    color: #FFF;
+    padding-bottom: 15%;
+    margin: 0px;
+    font-size: 172%;
+    font-weight: 100;
+   }
+
+  .services {
+    background: none repeat scroll 0% 0% #808080;
+    padding: 30px 0px;
+    color: #FFF;
+  }
+
+  #crm > h4:nth-child(1) {
+    font-size: 125%;
+  }
+
+  #philosophy {
+    width: 95%;
+    padding-bottom: 1%;
+  }
+
+  .callout {
+    background: url(../img/helicopter-small.jpg) no-repeat center center scroll;
+    max-width: 100%;
+  }
+}
+
+/* ipad */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  .header {
+    background: url(../img/airplane_takeoff_sunset.jpg) no-repeat center center scroll;
+    max-width: 100%;
+   }
+
+  .services {
+    background: none repeat scroll 0% 0% #808080;
+    padding: 30px 0px;
+    color: #FFF;
+  }
+
+  #crm > h4:nth-child(1) {
+    font-size: 125%;
+    text-align: center;
+  }
+
+  #philosophy {
+    width: 95%;
+    padding-bottom: 1%;
+  }
+
+  .callout {
+    background: url(../img/helicopter.jpg) no-repeat center center scroll;
+    max-width: 100%;
+  }
+}
+/*only screen and (-webkit-min-device-pixel-ratio : 1.5),
 only screen and (min-device-pixel-ratio : 1.5) {
 
   .header {
@@ -290,7 +354,7 @@ only screen and (min-device-pixel-ratio : 1.5) {
   .callout {
     background: url(../img/helicopter.jpg) no-repeat center center scroll;
   }
-
+*/
 }
 
 
