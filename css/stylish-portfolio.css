@@ -213,9 +213,8 @@ i.service-icon {
 }
 
 .img-portfolio {
-  margin: 0 auto;
+  padding-top: 15%;
 }
-
 
 .callout2 {
   color: #ffffff;
@@ -364,5 +363,10 @@ i.scroll:hover {
     height: 50%;
     max-width: 100%;
     background: url(../img/waterbomber3.jpg) no-repeat center center scroll;
+  }
+
+  .img-portfolio {
+    padding-top: 0%;
+    padding-left: 5%;
   }
 }
