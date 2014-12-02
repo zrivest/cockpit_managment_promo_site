@@ -212,10 +212,6 @@ i.service-icon {
   font-size: 139%;
 }
 
-.img-portfolio {
-  padding-top: 15%;
-}
-
 .callout2 {
   color: #ffffff;
   display: table;
@@ -302,7 +298,7 @@ i.scroll:hover {
     padding-bottom: 15%;
     margin: 0px;
     font-size: 172%;
-    font-weight: 100;
+    font-weight: 400;
    }
 
   .services {
